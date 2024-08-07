@@ -1,0 +1,73 @@
+.header { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px; 
+    color: white;
+    background-color: #4B565E;
+    padding: 0px 240px;
+}
+.header-left {
+    display: flex;
+    align-items: center;
+}
+.header-logo {
+    margin-right: 20px;
+}
+.header-nav {
+    display: flex;
+}
+.header-nav-item {
+    margin-right: 20px;
+}
+.header-right {
+    display: flex;
+    align-items: center;
+}
+.header-Phone {
+    display: flex;
+    align-items: center;
+}
+.namber {
+    margin-left: 15px;
+}
+.favour {
+    margin-left: 50px;
+    align-items: center;
+}
+.basket {
+    background-color: #4B565E;
+    border-color: #F0BA4E;    
+    border-radius: 25px;
+    color: white;
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+    height: 48px;
+    width: 126px;
+    justify-content: space-around;
+}
+.menu {
+    background-color: #F0BA4E;
+    height: 48px;
+    justify-content: space-between;
+    padding: 0px 240px;
+    align-items: center;
+    display: flex;
+}
+.menu-left {
+    display: flex;
+    align-items: center;
+    
+}
+.menu-left-punkt {
+    margin-left: 15px;
+}
+.menu-right {
+    display: flex;
+    align-items: center;
+}
+.menu-right-plece {
+    color: white;
+    margin-left: 20px;
+}
